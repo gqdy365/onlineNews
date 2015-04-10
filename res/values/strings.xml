@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">在线新闻</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">53ed5edd</string>
+
+    <string name="button_text_read">语音播报</string>
+    <string name="button_text_reload">重新连接</string>
+    <string name="tip_text_data_loading">数据获取中...</string>
+    <string name="tip_text_data_fail">数据获取失败，点击再次获取！</string>
+    <string name="tip_speak_not_installed">无法朗读，请安装讯飞语音！</string>
+    <string name="tip_speak_error">阅读错误！</string>
+    
+    <string name="exit_title">确认</string>
+    <string name="exit_tip">是否退出？</string>
+    <string name="exit_submit">确定</string>
+    <string name="exit_cancel">取消</string>
+    <string name="ignore_words_1">浏览原图</string>
+    <string name="ignore_words_2">视频下载</string>
+    
+    <integer-array name="channel_ids">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+
+    <string-array name="channel_names">
+        <item>头条</item>
+        <item>国内</item>
+        <item>国际</item>
+        <item>财经</item>
+        <item>科技</item>
+        <item>社会</item>
+        <item>体育</item>
+    </string-array>
+    
+    <string-array name="ignore_words">
+        <item>浏览原图</item>
+        <item>视频下载</item>
+    </string-array>
+
+</resources>
